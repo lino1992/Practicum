@@ -1,0 +1,7 @@
+c:\users\lino\documents\visual studio 2013\Projects\Practicum\Practicum\bin\Practicum.dll.config
+c:\users\lino\documents\visual studio 2013\Projects\Practicum\Practicum\bin\Practicum.dll
+c:\users\lino\documents\visual studio 2013\Projects\Practicum\Practicum\bin\Practicum.pdb
+c:\users\lino\documents\visual studio 2013\Projects\Practicum\Practicum\obj\Debug\Practicum.csprojResolveAssemblyReference.cache
+c:\users\lino\documents\visual studio 2013\Projects\Practicum\Practicum\obj\Debug\Practicum.dll
+c:\users\lino\documents\visual studio 2013\Projects\Practicum\Practicum\obj\Debug\Practicum.pdb
+C:\Users\lino\documents\visual studio 2013\Projects\Practicum\Practicum\bin\Oracle.DataAccess.dll
