@@ -1,0 +1,8 @@
+C:\Users\lino\documents\visual studio 2013\Projects\Practicum\PracticumTest\bin\Debug\PracticumTest.dll
+C:\Users\lino\documents\visual studio 2013\Projects\Practicum\PracticumTest\bin\Debug\PracticumTest.pdb
+C:\Users\lino\documents\visual studio 2013\Projects\Practicum\PracticumTest\bin\Debug\Practicum.dll
+C:\Users\lino\documents\visual studio 2013\Projects\Practicum\PracticumTest\bin\Debug\Oracle.DataAccess.dll
+C:\Users\lino\documents\visual studio 2013\Projects\Practicum\PracticumTest\bin\Debug\Practicum.pdb
+C:\Users\lino\documents\visual studio 2013\Projects\Practicum\PracticumTest\obj\Debug\PracticumTest.csprojResolveAssemblyReference.cache
+C:\Users\lino\documents\visual studio 2013\Projects\Practicum\PracticumTest\obj\Debug\PracticumTest.dll
+C:\Users\lino\documents\visual studio 2013\Projects\Practicum\PracticumTest\obj\Debug\PracticumTest.pdb
