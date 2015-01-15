@@ -1,0 +1,589 @@
+﻿body {
+    margin-top: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+    width:100%;
+    height:900px;
+    background-color:grey;
+
+}
+.balk
+{
+    width:900px;
+    height:50px;
+    border-bottom-style:groove;
+    margin-left:auto;
+    margin-right:auto;
+    background-color:white;
+}
+.menubalk
+{
+    margin-top:25px;
+    height: 25px;
+}
+.account
+{
+    float:right;
+    margin-left:5px;
+}
+.Bestelstatus
+{
+    float:right;
+    margin-left:5px;
+}
+.Verlanglijst
+{
+    float:right;
+    margin-left:5px;
+    
+}
+.Login
+{
+    float:right;
+    margin-left:5px;
+}
+.Home
+{
+    width:900px;
+    height:800px;
+    border-bottom-style:groove;
+    margin-left:auto;
+    margin-right:auto;
+    background-color:white;
+}
+.Logo
+{
+    width:168px;
+    height:176px;
+    float:left;
+}
+.Footer
+{
+    text-align:right;
+    border-top-style:groove;
+    width:900px;
+    margin-left:auto;
+    margin-right:auto;
+    background-color:white;
+}
+.Zoekbar
+{
+    width:599px;
+    height:50px;
+    float:right;
+    border-bottom-style:groove;
+}
+.BT_Zoek
+{
+    border-style:groove;
+    margin-left:10px;
+}
+.Boeklijst_GD
+{
+    margin-left:200px;
+    font-size:12px;
+}
+.Tekst
+{
+    margin-top:10px;
+    width:730px;
+    height:20px;
+    float:right;
+    border-bottom-style:groove;
+    text-align:center;
+}
+.Zoekresultaat
+{
+    margin-top:30px;
+    float:left;
+    width:700px;
+    height:100px;
+}
+.Foto
+{
+    margin-top:30px;
+    width:700px;
+    float:left;
+    height:220px;
+    border-top-style:groove;
+    margin-left:150px;
+}
+.Gevonden_GD
+{
+    margin-left:50px;
+    font-size:14px;
+}
+.LPhoto
+{
+    margin-top:10px;
+    width:650px;
+    height:180px;
+    float:right;
+}
+.DLogin
+{
+    margin-top:210px;
+    margin-left:auto;
+    margin-right:auto;
+    width:550px;
+    height:280px;
+
+}
+.RLogin
+{
+    width:50%;
+    height:70%;
+    float:right;
+}
+.LLogin
+{
+    width:49%;
+    height:100%;
+    float:left;
+    border-right-style:groove;
+}
+.Top
+{
+    width:100%;
+    height:180px;
+}
+.Pers_gegevens
+{
+    margin-top:20px;
+    width:70%;
+    margin-left:20px;
+    float:left;
+    height:628px;
+}
+.Pers_tekst
+{
+    margin-top:20px;
+    width:25%;
+    float:left;
+    margin-left:15px;
+}
+.Pers_left
+{
+    width:50%;
+    height:78%;
+    margin-top:10px;
+    float:left;
+}
+.Pers_right
+{
+    float:left;
+    width:47%;
+    height:78%;
+    margin-top:10px;
+    margin-left:10px;
+    border-left:groove;
+}
+.Pers_left_l
+{
+    width:35%;
+    height:90%;
+    float:left;
+}
+.Pers_left_r
+{
+    float:right;
+    width:65%;
+    height:90%;
+}
+.P_l_A
+{
+    margin-top:25px;
+}
+.P_l_G
+{
+    margin-top:20px;
+}
+.P_l_AD
+{
+    margin-top:25px;
+}
+.P_l_P
+{
+    margin-top:20px;
+}
+.P_l_Pl
+{
+    margin-top:20px;
+}
+.P_l_L
+{
+    margin-top:20px;
+}
+.P_l_K
+{
+    margin-top:20px;
+}
+.Pers_r_l
+{
+    width:35%;
+    height:30%;
+    float:left;
+}
+.Pers_r_r
+{
+    width:65%;
+    height:30%;
+    float:left;
+}
+.P_R_W
+{
+    margin-top:25px;
+}
+.P_R_WA
+{
+    margin-top:25px;
+}
+.Cb_Nieuws
+{
+    margin-top:20px;
+}
+p
+{
+    font-size:10px;
+}
+.TB_verzend
+{
+    width:70px;
+    height:30px;
+    float:right;
+     margin-top:30px;
+     margin-right:10px;
+}
+.Inhoud
+{
+    width:100%;
+    height:620px;
+}
+.A_A
+{
+    margin-top:20px;
+    height:16%;
+}
+.A_Bs
+{
+    margin-top:20px;
+    height:20%;
+}
+.A_Ft
+{
+    margin-top:20px;
+    height:25%;
+    width: 895px;
+}
+.A_Vl
+{
+    margin-top:20px;
+    height:20%;
+}
+.A_Vk
+{
+    margin-top:20px;
+    height:20%;
+}
+.G_N
+{
+    margin-left:100px;
+    width:100px;
+    float:left;
+}
+.G_A
+{
+    margin-left:20px;
+    width:100px;
+    float:left;
+}
+.G_A
+{
+    margin-left:20px;
+    width:100px;
+    float:left;
+}
+.G_AD
+{
+    margin-left:20px;
+    width:100px;
+    float:left;
+}
+.G_P
+{
+    margin-left:20px;
+    width:100px;
+    float:left;
+}
+.G_E
+{
+    margin-left:20px;
+    width:100px;
+    float:left;
+}
+.G_W
+{
+    margin-left:20px;
+    width:139px;
+    float:left;
+    height: 16px;
+}
+.G_T
+{
+    width:200px;
+    margin-left:100px;
+}
+.Persoon_g
+{
+    margin-top:20px;
+}
+.Persoon_g_l
+{
+    margin-top:20px;
+}
+
+.Factuur_GD
+{
+    margin-top:20px;
+    margin-left:100px;
+    font-size:small;
+}
+.Verlanglijst_GD
+{
+    margin-top:10px;
+    margin-left:100px;
+    font-size:small;
+}
+.Gekochte_boeken
+{
+    margin-top:10px;
+    width:800px;
+    font-size:small;
+    margin-left:100px;
+}
+.BestellingInfor
+{
+    width:800px;
+    float:left;
+    margin-top:20px;
+    
+    
+}
+.Gekozenboek
+{
+    width:200px;
+    float:left;
+    border-style:groove;
+    height:500px;
+}
+.Mijngegevens
+{
+    width:550px;
+    height:150px;
+    float:left;
+    margin-left:30px;
+    border-style:groove;
+    margin-top:50px;
+}
+.levertijd
+{
+    margin-left:100px;
+}
+.adres
+{
+    margin-left:80px;
+}
+.postcode
+{
+    margin-left:90px;
+}
+.tb_levertijd
+{
+    margin-left:5px;
+}
+.tb_adres
+{
+    margin-left:5px;
+}
+.tb_postcode
+{
+    margin-left:5px;
+}
+.Bestelling_betaling
+{
+    float:left;
+    width:550px;
+    border-style:groove;
+    margin-left:30px;
+    margin-top:20px;
+    height:150px;
+}
+.betalingmethode
+{
+    margin-left:150px;
+}
+.betaald
+{
+    margin-left:100px;
+}
+.betaling_ja
+{
+    margin-left:40px;
+}
+.betaling_nee
+{
+    margin-left:20px;
+}
+.betaald_ja
+{
+    margin-left:50px;
+}
+.betaald_nee
+{
+    margin-left:20px;
+}
+.Mijngegevens2
+{
+    margin-top:30px;
+}
+.Betaling2
+{
+    margin-top:30px;
+}
+.Tb_bevestig
+{
+    margin-top:50px;
+    margin-left:500px;
+}
+.Mijngegevens_GD
+{
+    margin-left:10px;
+    margin-top:30px;
+}
+.Verkooplijst_GD
+{
+    margin-top:10px;
+    width:800px;
+    font-size:small;
+    margin-left:100px;
+}
+.Verkooplijst
+{
+    margin-top:25px;
+    height:150px;
+    float:left;
+
+}
+.Verkooplijst_tekst
+{
+    margin-left:100px;
+}
+.VerkoopGegevens
+{
+    width:500px;
+    height:450px;
+    margin-left:250px;
+    float:left;
+    border-style:groove;
+    margin-top:10px;
+;}
+.VerkoopTekst
+{
+    width:180px;
+    margin-left:auto;
+    margin-right:auto;
+}
+.VerkoopGegevenL
+{
+    width:150px;
+    float:left;
+    height:300px;
+}
+.VerkoopGegevenR
+{
+    width:350px;
+    float:left;
+    height:300px;
+}
+.Lprijs
+{
+    margin-top:70px;
+    float:right;
+    width:150px;
+    text-align:center;
+}
+.LTitel
+{
+    margin-top:20px;
+    float:right;
+    width:150px;
+    text-align:center;
+}
+.Lomschrijving
+{
+    margin-top:20px;
+    float:right;
+    width:150px;
+    text-align:center;
+}
+.Lisbnnummer
+{
+    margin-top:70px;
+    float:right;
+    width:150px;
+    text-align:center;
+}
+.LVerkoopNummer
+{
+    margin-top:20px;
+    float:left;
+    width:150px;
+    text-align:center;
+}
+.Tb_Ver_T
+{
+    width:200px;
+    height:60px;
+    float:left;
+    margin-top:20px;
+}
+.Tb_Ver_P
+{
+    width:200px;
+    float:left;
+    margin-top:20px;
+}
+.Tb_Ver_O
+{
+    width:200px;
+    height:60px;
+    float:left;
+    margin-top:20px;
+}
+.Tb_Ver_I
+{
+    width:200px;
+    float:left;
+    margin-top:20px;
+}
+.Tb_Ver_V
+{
+    width:200px;
+    float:left;
+    margin-top:20px;
+}
+.Tb_toevoegen
+{
+    margin-top:20px;
+    margin-left:270px;
+}
+.Ac_naam
+{
+    font-size:8px;
+}
+.Gegevens_GD
+{
+    font-size:small;
+    margin-top:20px;
+}
